@@ -1,0 +1,150 @@
+package cn.droidlover.xdroidmvp.mvp;
+
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.view.Menu;
+import android.view.View;
+import android.widget.Toast;
+
+import com.tbruyelle.rxpermissions.RxPermissions;
+import com.trello.rxlifecycle.components.support.RxAppCompatActivity;
+
+import butterknife.Unbinder;
+import cn.droidlover.xdroidmvp.XDroidConf;
+import cn.droidlover.xdroidmvp.event.BusProvider;
+import cn.droidlover.xdroidmvp.kit.KnifeKit;
+
+/**
+ * Created by wanglei on 2016/12/29.
+ */
+
+public abstract class XActivity<P extends IPresent> extends RxAppCompatActivity implements IView<P> {
+
+    private VDelegate vDelegate;
+    private P p;
+    protected Activity context;
+
+    private RxPermissions rxPermissions;
+
+    private Unbinder unbinder;
+
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        context = this;
+
+        if (getLayoutId() > 0) {
+            setContentView(getLayoutId());
+            bindUI(null);
+            bindEvent();
+        }
+        initData(savedInstanceState);
+
+    }
+
+    @Override
+    public void bindUI(View rootView) {
+        unbinder = KnifeKit.bind(this);
+    }
+
+    protected VDelegate getvDelegate() {
+        if (vDelegate == null) {
+            vDelegate = VDelegateBase.create(context);
+        }
+        return vDelegate;
+    }
+
+    protected P getP() {
+        if (p == null) {
+            p = newP();
+            if (p != null) {
+                p.attachV(this);
+            }
+        }
+        return p;
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        if (useEventBus()) {
+            BusProvider.getBus().register(this);
+        }
+    }
+
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        getvDelegate().resume();
+    }
+
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        getvDelegate().pause();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if (useEventBus()) {
+            BusProvider.getBus().unregister(this);
+        }
+    }
+
+    @Override
+    public boolean useEventBus() {
+        return false;
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if (getP() != null) {
+            getP().detachV();
+        }
+        getvDelegate().destory();
+        p = null;
+        vDelegate = null;
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        if (getOptionsMenuId() > 0) {
+            getMenuInflater().inflate(getOptionsMenuId(), menu);
+        }
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    protected RxPermissions getRxPermissions() {
+        rxPermissions = new RxPermissions(this);
+        rxPermissions.setLogging(XDroidConf.DEV);
+        return rxPermissions;
+    }
+
+    private Toast toast = null;
+
+    public void ToastShort(String msg) {
+        if (toast == null) {
+            toast = Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT);
+        } else {
+            toast.setText(msg);
+        }
+        toast.show();
+    }
+
+    @Override
+    public int getOptionsMenuId() {
+        return 0;
+    }
+
+    @Override
+    public void bindEvent() {
+
+    }
+}

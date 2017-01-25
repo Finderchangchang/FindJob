@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Project\wai\FindJob\mvp\src\main\res"/><source path="E:\Project\wai\FindJob\mvp\build\generated\res\rs\release"/><source path="E:\Project\wai\FindJob\mvp\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\Project\wai\FindJob\mvp\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Project\wai\FindJob\mvp\src\main\res"><file name="v_title_bar" path="E:\Project\wai\FindJob\mvp\src\main\res\layout\v_title_bar.xml" qualifiers="" type="layout"/><file path="E:\Project\wai\FindJob\mvp\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="TitleBar">
+        <attr format="reference" name="left_iv"/>
+        <attr format="string" name="left_tv"/>
+        <attr format="reference" name="center_iv"/>
+        <attr format="string" name="center_tv"/>
+        <attr format="reference" name="right_iv"/>
+        <attr format="boolean" name="no_bottom_line"/>
+    </declare-styleable></file><file path="E:\Project\wai\FindJob\mvp\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Mvp</string></file></source><source path="E:\Project\wai\FindJob\mvp\build\generated\res\rs\release"/><source path="E:\Project\wai\FindJob\mvp\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\Project\wai\FindJob\mvp\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="TitleBar"><attr format="reference" name="left_iv"/><attr format="string" name="left_tv"/><attr format="reference" name="center_iv"/><attr format="string" name="center_tv"/><attr format="reference" name="right_iv"/><attr format="boolean" name="no_bottom_line"/></declare-styleable></configuration></mergedItems></merger>

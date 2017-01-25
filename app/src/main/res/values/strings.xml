@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindJob</string>
+    <string name="no_wang">请检查网络连接</string>
+</resources>

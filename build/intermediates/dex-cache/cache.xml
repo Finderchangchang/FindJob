@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_357ecc4c41deba432fd6bf69f999ecf2e3916cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_783a343ad94c45e70c97ce0210c9adb506703769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_e4984b292e7f317cd178822f5166ccb722d37d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.1\4e4cfa4adc74521d5966799fa5ab70b733552f68\rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\rxjava-1.2.1_aa891a92fd7005674dbfb16a988b401dae763c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\rxlifecycle-1.0_312719db61004e01c00ed151ca12bd3fdb2265ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5c9ee05a9379e14f14da58e1f2b0c85057eea57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\jsr305-3.0.1_b629f06a974d8a52776eaf08b3d7e7de95a0263a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_34aa34f643ea83c1d9c4801527e7cc0fec899756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\libs\BmobSDK_3.5.3_20161116.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7dd0893cb2b1d2e4249ce6a10934e3cba2d57d0f">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.3_20161116_a5a4b739aa1b65a316822dd0bc5860679e1cce02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\job\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_8a9f5f81d2abd1a7ccaf86317e9b6bde254dbbcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.github.limedroid\QTContentLayout\v1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="86a14a31b2c0a43ec84e893c85b95e36ac6882c0">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.github.limedroid-QTContentLayout-v1.0.0_eb0e570ddc90105e9040fdbe9e85cc92414f6392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_49bf04820e9b151b2ed307e9eb1cb4d8878a69d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_ae3cdcc1e7c2a4a303ea293d52806fed01d405bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_12c4602e25596c89306f6f8e23e30e316d0f8d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_2cb45cd6f82b412f7a15ef5cfa49af408516cca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_97e90404c38c6b07bcfc3511a3595d90b8bd4edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-components-1.0_6dd11a49bac74a00517c4ba0ff44fa0e626cd867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_533642697a466b2444db63d8c9e547fbeb0844c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_f41e1dc10c1c5bfea0750d2c01628107685de02a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_84e0d7ecb833f959e5fcbc5ebf63ff994f2efdc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eee324e49a780a5705de37cc42a4eb66b16b3dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.jakewharton.rxbinding-rxbinding-0.4.0_3b192ef19b3547495065cf07cb3796e4a23d425c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.github.limedroid\ARecyclerView\v1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="08e86e67ec0e0fe09c8a9a493ec742a19ea87a77">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.github.limedroid-ARecyclerView-v1.0.0_2bd32162f4edbe3174a0412424928d328afee3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_1159e7b05eb3c87b74bdca65dcc6108c3d31dbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe84f4cdab75ecd4fccc4cef82a6ddf387da6c71">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\instant-run_c45f7faa373ab5e7a7b0c7721fa237ac98e3ac3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_4fe7fa021be4bf11c5b66e93fa1c37fdce211ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.9.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.tbruyelle.rxpermissions-rxpermissions-0.9.1_ada955a42240b3ce897e8d1c4d6a47a359d7bca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32d9cdc17ff51f274682f805022dc15ead97045c">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_74d6005260b26ffb03d458e0d87e46671e13920e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_e3ff0ec8bddefff9fa78c2c8a8cbf48f9fbfd80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-android-1.0_fa5b5dbf8d534ac1843c5e2577e07f14c0a8bb41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_22a6352eb9e39e58069005b2aef0dc5660bcd2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\FindJob\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Project\wai\FindJob\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_36c38497e42b22dbe4a9fc79cb974a1fc47f435d.jar" />
+    </item>
+
+</items>

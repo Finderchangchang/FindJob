@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0B5F9F</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_bg">#E6E6E6</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#87000000</color>
+    <color name="text_disabled">#38000000</color>
+    <color name="peisong_lab">#686868</color>
+    <color name="biaoqian_lab">#A5A5A5</color>
+    <color name="main_item_bottom_bg">#f0f0f0</color>
+    <color name="bottom_normal_lab">#737373</color>
+    <color name="bottom_pressed_lab">#00d8e2</color>
+    <color name="textColor">#fff</color>
+    <color name="red">#FF0000</color>
+</resources>

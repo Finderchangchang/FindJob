@@ -1,0 +1,10 @@
+int attr cl_contentLayoutId 0x7f010000
+int attr cl_emptyLayoutId 0x7f010002
+int attr cl_errorLayoutId 0x7f010003
+int attr cl_loadingLayoutId 0x7f010001
+int string app_name 0x7f020000
+int[] styleable QTContentLayout { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable QTContentLayout_cl_contentLayoutId 0
+int styleable QTContentLayout_cl_emptyLayoutId 2
+int styleable QTContentLayout_cl_errorLayoutId 3
+int styleable QTContentLayout_cl_loadingLayoutId 1

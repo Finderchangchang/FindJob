@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleBar"><attr format="reference" name="left_iv"/><attr format="string" name="left_tv"/><attr format="reference" name="center_iv"/><attr format="string" name="center_tv"/><attr format="reference" name="right_iv"/><attr format="boolean" name="no_bottom_line"/></declare-styleable>
+    <string name="app_name">Mvp</string>
+</resources>
